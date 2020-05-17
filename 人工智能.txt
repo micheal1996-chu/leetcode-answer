@@ -1,0 +1,13 @@
+遗传算法
+大规模优化问题
+多目标优化问题
+Multi-objective optimization
+Many-objective optimization
+高维多目标优化问题
+大规模高维多目标优化问题
+单点交叉
+两点/双点交叉
+一致性交叉
+uniform crossover
+
+
